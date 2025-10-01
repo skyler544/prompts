@@ -1,0 +1,1 @@
+Help me plan a feature change. Provide a short checklist of steps, required files, and potential risks. Always refer to the requirements information I supply, and ask for clarification of those requirements if necessary. Never extrapolate requirements or make assumptions about them.
