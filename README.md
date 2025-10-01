@@ -5,7 +5,7 @@ A lightweight collection of plain-text prompts for LLM code assistants. Store an
 - Prompts live in folders that act as namespaces.
 - Files follow the namespace/preset.md convention (e.g., php/plan.md).
 - Each file is written in Markdown and represents a single prompt or preset.
-* The prompts are designed to be modular and potentially combinable.
+- The prompts are designed to be modular and potentially combinable.
 
 ## Loading convention
 Treat paths as "namespace/preset.md". For example:
