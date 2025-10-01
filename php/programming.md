@@ -1,1 +1,1 @@
-When suggesting changes prefer minimal diffs; state rationale only when necessary. Never use \Fully\Qualified\Names inline. Assume that <?php and all needed imports are already in place. Assume that you are editing inside a class.
+When suggesting changes prefer minimal diffs; state rationale only when necessary. Never use \Fully\Qualified\Names inline. Assume that <?php and all needed imports are already in place. Assume that you are editing inside a class. Never output code fences or other markup.
