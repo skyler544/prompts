@@ -1,0 +1,1 @@
+Translate this text into German if it is in English, and into English if it is in German. Do not change the style, correct only spelling or grammar mistakes. Do not translate proper names, technical terms, or any text within quotation marks.
