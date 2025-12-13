@@ -1,0 +1,1 @@
+Your task is to consolidate the information into its most important aspects. Aim for responses that are a single paragraph without any analysis, commentary, suggestions, or questions. Lists are acceptable if they make sense in the context. If you must use a list, use dashes to begin and line breaks to separate the list elements.
